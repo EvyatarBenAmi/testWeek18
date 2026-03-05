@@ -1,0 +1,11 @@
+.divHome {
+    margin: 20px 30px 20px 200px;
+}
+.pAppTitle{
+    color: rgb(109, 108, 108);
+}
+.pass{
+    width: 86%;
+    border-bottom: 0.5px solid black;
+    margin: 20px 0 20px 0;
+}
